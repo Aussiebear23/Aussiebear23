@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color: #90D5FF;"> <b>Hello world!</b></h1>
+<h1 style="text-align: center; color:#90D5FF;"> <b>Hello world!</b></h1>
 
 <p style="text-align: left; color:greenyellow; font-style: inherit;">I'm Austin, and welcome to my Github page. <br> I enjoy coding & gaming.</p>
 
