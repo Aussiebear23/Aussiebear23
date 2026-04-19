@@ -5,4 +5,4 @@
 ### <p> <b>• Intermediate @ HTML</b></p>
 ### <p> <b>• Beginner @ CSS</b></p>
 
-<h2 align="center"> <b>Thanks for stopping by! Make sure to keep an eye out for projects I'll do in the new future.</b></h2>
+<h2 align="center"> <b>Thanks for stopping by! Make sure to keep an eye out for projects I'll do in the near future.</b></h2>
